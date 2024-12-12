@@ -1,0 +1,9 @@
+<html>
+	<head>
+		Catalog
+	</head>
+	<body>
+		<a href="c1.html" target="fr6">Catalog</a>
+	</body>
+</html>
+
